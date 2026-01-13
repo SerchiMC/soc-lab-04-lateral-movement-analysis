@@ -20,7 +20,7 @@ Este documento complementa el README principal. Recoge la **cronología técnica
 **Captura 03 – Actividad legítima (app abierta)**  
 ![Captura 03](capturas/LAB4_03_ActividadLegitima_BlocDeNotas_LAB-IAM-CL01.png)
 
-**Captura 04 – Logon legítimo (baseline)**  
+**Captura 04 – Cierre de sesión legítimo**  
 ![Captura 04](capturas/LAB4_04_cierre_sesion_jfernandez.png)
 
 **Captura 05 - Evento 4624 – Logon legítimo (baseline)**  
@@ -78,7 +78,7 @@ This document complements the main README. It provides the **technical timeline*
 **Screenshot 03 – Legitimate activity (app open)**  
 ![Screenshot 03](capturas/LAB4_03_ActividadLegitima_BlocDeNotas_LAB-IAM-CL01.png)
 
-**Screenshot 04 – Legitimate logon (baseline)**  
+**Screenshot 04 – Legitimate log off**  
 ![Screenshot 04](capturas/LAB4_04_cierre_sesion_jfernandez.png)
 
 **Screenshot 05 - Event 4624 – Legitimate logon (baseline)**  
